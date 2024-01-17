@@ -1,0 +1,1 @@
+import{l as o,b as r,c as t,Y as n}from"./entry.7XMLTiCi.js";const s={};function c(e,a){return r(),t("ol",null,[n(e.$slots,"default",{},void 0,!0)])}const d=o(s,[["render",c],["__scopeId","data-v-f1726125"]]);export{d as default};
